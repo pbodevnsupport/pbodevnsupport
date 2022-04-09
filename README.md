@@ -19,3 +19,9 @@
   <img align="center" alt="Trick-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Trick-PSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
+
+##
+  
+<div>
+  <a href="https://www.linkedin.com/in/pbodevnsupport/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo-linkedin&logoColor=white" target="_blank"></a>
+</div>
