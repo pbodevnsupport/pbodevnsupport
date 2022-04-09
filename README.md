@@ -1,5 +1,5 @@
-### Hi everyone!
+## Olá a todos! Eu sou o Patrick Barboza
 
-- Hoje trabalho fazendo plugins e temas para WordPress, apps para smartphones e contribuindo para projetos open-source;
+- Hoje trabalho fazendo plugins e temas para WordPress, apps para smartphones, jogos e contribuindo para diversos projetos open-source;
 - Estudando mais sobre Javascript, PHP e Flutter
-- Entre em contato comigo pelo e-mail: patrickboza2017@gmail.com
+- Pronomes: ele/dele
