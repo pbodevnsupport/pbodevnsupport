@@ -1,6 +1,6 @@
 ## Olá a todos! Eu sou o Patrick Barboza
 
-- Hoje trabalho como Full-Stack desenvolvendo plugins e temas para WordPress, apps para smartphones, jogos e contribuindo para diversos projetos open-source;
+- Hoje trabalho como Full-Stack Freelancer desenvolvendo plugins e temas para WordPress, apps para smartphones, jogos e contribuindo para diversos projetos open-source;
 - No momento, estou estudando mais sobre Javascript, PHP e Flutter;
 - Pronomes: ele/dele;
 
